@@ -10,6 +10,7 @@ namespace _1_PrimeiroProjeto
 	{
 		static void Main(string[] args)
 		{
+			Console.WriteLine("Olá, Mundo! Aprendendo CSharp com a Alura");
 		}
 	}
 }
