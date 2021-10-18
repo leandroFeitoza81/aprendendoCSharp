@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AliquoteComIfs", "AliquoteC
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "p10-CalculaPoupanca", "p10-CalculaPoupanca\p10-CalculaPoupanca.csproj", "{4A856BFE-25BD-4990-912E-A984F49B3167}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "p11-CalculaPoupanca2", "p11-CalculaPoupanca2\p11-CalculaPoupanca2.csproj", "{5B7EA183-EB78-430D-931E-DB84CBB75AED}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{4A856BFE-25BD-4990-912E-A984F49B3167}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4A856BFE-25BD-4990-912E-A984F49B3167}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4A856BFE-25BD-4990-912E-A984F49B3167}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B7EA183-EB78-430D-931E-DB84CBB75AED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B7EA183-EB78-430D-931E-DB84CBB75AED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B7EA183-EB78-430D-931E-DB84CBB75AED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B7EA183-EB78-430D-931E-DB84CBB75AED}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
