@@ -20,7 +20,7 @@ namespace _8_Condicionais2
 			}
 			else
 			{
-				Console.WriteLine("Inelizemente você não pode entrar");
+				Console.WriteLine("Infelizmente você não pode entrar");
 			}
 		}
 	}
