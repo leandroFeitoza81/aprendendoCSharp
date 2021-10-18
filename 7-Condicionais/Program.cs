@@ -20,7 +20,7 @@ namespace _7_Condicionais
 			{
 				if (quantidadeDePessoas >= 2)
 				{
-					Console.WriteLine("Voc~e não posssui 18 anos, mas pode entrar, pois está acompanhado");
+					Console.WriteLine("Você não posssui 18 anos, mas pode entrar, pois está acompanhado");
 				}
 				else
 				{
