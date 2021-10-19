@@ -6,7 +6,7 @@ namespace _01_ByteBank
 	{
 		static void Main(string[] args)
 		{
-			Console.WriteLine("Hello World!");
+			new ContaCorrente();
 		}
 	}
 }
