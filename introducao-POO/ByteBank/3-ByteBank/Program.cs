@@ -25,6 +25,8 @@ namespace _3_ByteBank
 			int idade = 40;
 			int idade2 = 40;
 			Console.WriteLine(idade == idade2);
+
+            Console.WriteLine(contaDaMaria.chequeEspecial);
 		}
 	}
 }
