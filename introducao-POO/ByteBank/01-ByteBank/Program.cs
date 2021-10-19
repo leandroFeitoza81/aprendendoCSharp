@@ -6,7 +6,12 @@ namespace _01_ByteBank
 	{
 		static void Main(string[] args)
 		{
-			new ContaCorrente();
+			ContaCorrente contaDaMaria = new ContaCorrente();
+
+			contaDaMaria.titular = "Maria";
+			contaDaMaria.agencia = 3084;
+			contaDaMaria.numero = 12346;
+			contaDaMaria.saldo = 1000;
 		}
 	}
 }
