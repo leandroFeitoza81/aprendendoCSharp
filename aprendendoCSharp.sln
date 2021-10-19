@@ -11,25 +11,29 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3-CriandoVariaveisPontoFlut
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4-ConversoesEOutrosTiposNumericos", "4-ConversoesEOutrosTiposNumericos\4-ConversoesEOutrosTiposNumericos.csproj", "{C4B9AA72-0B37-4FF8-B4FD-B1CEB833FC85}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5-CaracteresETextos", "5-CaracteresETextos\5-CaracteresETextos.csproj", "{BF5AD095-16A3-4D0B-8184-1907FDAAD50B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "5-CaracteresETextos", "5-CaracteresETextos\5-CaracteresETextos.csproj", "{BF5AD095-16A3-4D0B-8184-1907FDAAD50B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6-AtribuicaoDeVariaveis", "6-AtribuicaoDeVariaveis\6-AtribuicaoDeVariaveis.csproj", "{99930DC3-4F73-4C0E-A783-575EE0993B2B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "6-AtribuicaoDeVariaveis", "6-AtribuicaoDeVariaveis\6-AtribuicaoDeVariaveis.csproj", "{99930DC3-4F73-4C0E-A783-575EE0993B2B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7-Condicionais", "7-Condicionais\7-Condicionais.csproj", "{E30173F6-5094-47A6-83E6-72C4F75C4F45}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "7-Condicionais", "7-Condicionais\7-Condicionais.csproj", "{E30173F6-5094-47A6-83E6-72C4F75C4F45}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8-Condicionais2", "8-Condicionais2\8-Condicionais2.csproj", "{3AEE1E7A-E127-4963-9248-7C2D8484B022}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "8-Condicionais2", "8-Condicionais2\8-Condicionais2.csproj", "{3AEE1E7A-E127-4963-9248-7C2D8484B022}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9-Escopo", "9-Escopo\9-Escopo.csproj", "{D91997E3-2477-40FB-A509-07E177532FA7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "9-Escopo", "9-Escopo\9-Escopo.csproj", "{D91997E3-2477-40FB-A509-07E177532FA7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AliquoteComIfs", "AliquoteComIfs\AliquoteComIfs.csproj", "{D7BC70AF-C37C-405B-A52A-3DA7988E3464}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AliquoteComIfs", "AliquoteComIfs\AliquoteComIfs.csproj", "{D7BC70AF-C37C-405B-A52A-3DA7988E3464}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "p10-CalculaPoupanca", "p10-CalculaPoupanca\p10-CalculaPoupanca.csproj", "{4A856BFE-25BD-4990-912E-A984F49B3167}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "p10-CalculaPoupanca", "p10-CalculaPoupanca\p10-CalculaPoupanca.csproj", "{4A856BFE-25BD-4990-912E-A984F49B3167}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "p11-CalculaPoupanca2", "p11-CalculaPoupanca2\p11-CalculaPoupanca2.csproj", "{5B7EA183-EB78-430D-931E-DB84CBB75AED}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "p11-CalculaPoupanca2", "p11-CalculaPoupanca2\p11-CalculaPoupanca2.csproj", "{5B7EA183-EB78-430D-931E-DB84CBB75AED}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "p12-CalculaInvestimentoLongoPrazo", "p12-CalculaInvestimentoLongoPrazo\p12-CalculaInvestimentoLongoPrazo.csproj", "{E5BAE2D9-8597-4E94-822A-9D1B5D68AC0E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "p12-CalculaInvestimentoLongoPrazo", "p12-CalculaInvestimentoLongoPrazo\p12-CalculaInvestimentoLongoPrazo.csproj", "{E5BAE2D9-8597-4E94-822A-9D1B5D68AC0E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "p13-ForEncadeado", "p13-ForEncadeado\p13-ForEncadeado.csproj", "{7CAF190D-8B41-490E-A03B-05FB69B22571}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "p13-ForEncadeado", "p13-ForEncadeado\p13-ForEncadeado.csproj", "{7CAF190D-8B41-490E-A03B-05FB69B22571}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LacoDeRepeticaoWhile", "LacoDeRepeticaoWhile\LacoDeRepeticaoWhile.csproj", "{62EC91DC-0934-415D-9898-0C319C469D1B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LacoDeRepetiçãoFor", "LacoDeRepetiçãoFor\LacoDeRepetiçãoFor.csproj", "{9B6F73CA-92CA-4515-96A6-3F3025E4D60E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -93,6 +97,14 @@ Global
 		{7CAF190D-8B41-490E-A03B-05FB69B22571}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7CAF190D-8B41-490E-A03B-05FB69B22571}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7CAF190D-8B41-490E-A03B-05FB69B22571}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62EC91DC-0934-415D-9898-0C319C469D1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62EC91DC-0934-415D-9898-0C319C469D1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62EC91DC-0934-415D-9898-0C319C469D1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62EC91DC-0934-415D-9898-0C319C469D1B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B6F73CA-92CA-4515-96A6-3F3025E4D60E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B6F73CA-92CA-4515-96A6-3F3025E4D60E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B6F73CA-92CA-4515-96A6-3F3025E4D60E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B6F73CA-92CA-4515-96A6-3F3025E4D60E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
