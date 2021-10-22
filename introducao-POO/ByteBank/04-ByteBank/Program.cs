@@ -21,6 +21,21 @@ namespace _04_ByteBank
             {
                 Console.WriteLine(mensagemNegativo + ContaDoJoao.saldo);
             }
+
+            Console.WriteLine(ContaDoJoao.saldo);
+            ContaDoJoao.Depositar(150);
+            Console.WriteLine(ContaDoJoao.saldo);
+
+            ContaCorrente contadaMaria = new ContaCorrente();
+            Console.WriteLine(contadaMaria.saldo);
+
+            ContaDoJoao.Depositar(1000);
+            ContaDoJoao.Transferir(800, contadaMaria);
+
+            contadaMaria.Sacar(700);
+
+            Console.WriteLine("Saldo do Joao " + ContaDoJoao.saldo);
+            Console.WriteLine("Saldo da Maria " + contadaMaria.saldo);
         }
     }
 }
