@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace Rascunho
+﻿namespace Rascunho
 {
     public class Veiculo
     {
@@ -12,7 +8,7 @@ namespace Rascunho
 
         public Veiculo(string tipoVeiculo)
         {
-            tipo = tipoVeiculo; 
+            tipo = tipoVeiculo;
         }
 
         public virtual void Mover() { }

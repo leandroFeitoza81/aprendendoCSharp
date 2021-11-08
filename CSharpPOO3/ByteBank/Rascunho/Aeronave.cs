@@ -1,10 +1,8 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace Rascunho
 {
-    public class Aeronave : Veiculo 
+    public class Aeronave : Veiculo
     {
         public Aeronave(string tipoVeiculo) : base(tipoVeiculo)
         { }

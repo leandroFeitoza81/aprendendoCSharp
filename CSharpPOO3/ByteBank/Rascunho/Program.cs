@@ -4,7 +4,7 @@ namespace Rascunho
 {
     internal class Program
     {
-         public static void MovimentarVeiculo(Veiculo veiculo)
+        public static void MovimentarVeiculo(Veiculo veiculo)
         {
             Console.WriteLine(veiculo.Tipo);
             veiculo.Mover();

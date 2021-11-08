@@ -1,7 +1,4 @@
 ﻿using ByteBank.Funcionarios;
-using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace ByteBank
 {
@@ -15,7 +12,7 @@ namespace ByteBank
 
         public double GetTotalBoinificacao()
         {
-            return _totalBonificacao;   
+            return _totalBonificacao;
         }
     }
 }
