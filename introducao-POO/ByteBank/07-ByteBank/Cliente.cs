@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace _06_ByteBank
+namespace _07_ByteBank
 {
     public class Cliente
     {

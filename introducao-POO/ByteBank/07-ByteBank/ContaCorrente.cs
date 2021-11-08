@@ -1,12 +1,31 @@
-﻿using _06_ByteBank;
+﻿using _07_ByteBank;
 public class ContaCorrente
 {
     private Cliente Titular { get; set; }
-
-
-	public int agencia;
-	public int numero;
+    private int _agencia;
+	public int Agencia
+    {
+        get
+        {
+            return _agencia;    
+        }
+        set
+        {
+            if (value <= 0)
+            {
+                return;
+            }
+            _agencia = value;
+        }
+    }
+	public int Numero { get; set; }
 	private double _saldo = 100;
+
+    public ContaCorrente(int agencia, int numero)
+    {
+        Agencia = agencia;
+        Numero = numero;    
+    }
 
     public double Saldo
     {

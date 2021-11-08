@@ -7,10 +7,20 @@ namespace _06_ByteBank
         static void Main(string[] args)
         {
             ContaCorrente conta = new ContaCorrente();
+            Cliente cliente = new Cliente();
 
-            conta.DefinirSaldo(-20);
+            cliente.Nome = "Leandro";
+            cliente.CPF = "123465798-11";
+            cliente.Profissao = "Piloto";
 
-            Console.WriteLine(conta.ObterSaldo());
+            //cliente._titular = "jose";
+
+            conta.Saldo = -20;
+            Console.WriteLine(conta.Saldo);
+
+            Console.WriteLine(cliente.Nome);
+
+
         }
     }
 }
